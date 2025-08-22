@@ -1,0 +1,10 @@
+
+
+# Dataset Access
+
+The dataset used in this project is too large for GitHub.  
+You can download it from the following link:
+
+👉 [Download Dataset (Google Drive)](https://drive.google.com/drive/folders/1ibWg2WhkJoNAD00a6DuAj4lLMpZ4KqVi?usp=sharing)
+
+After downloading, place the file in the `data/` folder of this project before running the code.
